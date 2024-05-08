@@ -1,4 +1,4 @@
-<h1>Hi, Am Narayana! <br/><a href="https://www.linkedin.com/in/cybersecurity-professional-narayana-murthy">Cybersecurity Professional</a>
+<h1>Hi, Am Narayana <br/><a href="https://www.linkedin.com/in/cybersecurity-professional-narayana-murthy">Cybersecurity Professional</a>
 
 ## A brief of my journey to be here...
 
